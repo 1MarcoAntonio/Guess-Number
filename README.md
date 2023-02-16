@@ -4,3 +4,10 @@
 #### Credits: This game was made in conjunction with
 #### the complete JavaScript course 2023: From zero to expert!
 #### By Jonas.IO
+
+# Adivinha-o-Número
+## nesse jogo o sistema ira criar um numero aleatorio entre 1 e 20, 
+## ganha se acertar em menos de 20 tentativas!
+#### Créditos: Este jogo foi feito em conjunto com
+#### the complete JavaScript course 2023: From zero to expert!
+#### por Jonas.IO
